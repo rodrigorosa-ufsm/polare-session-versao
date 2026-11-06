@@ -1,6 +1,6 @@
 {
-  "versao": "1.14.2",
-  "data": "05/11/2026",
+  "versao": "1.15.0",
+  "data": "06/11/2026",
   "url": "",
-  "notas": "Pacotes com navegador e versao no nome; aviso aponta Drive NTI\\22 Polare Session"
+  "notas": "KeepAlive com duracao personalizada em minutos (10 a 720)"
 }
