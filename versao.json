@@ -1,6 +1,6 @@
 {
-  "versao": "1.15.0",
+  "versao": "1.16.0",
   "data": "06/11/2026",
   "url": "",
-  "notas": "KeepAlive com duracao personalizada em minutos (10 a 720)"
+  "notas": "Logout no Polare encerra a sessao e para o KeepAlive"
 }
